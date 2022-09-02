@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "socks-proxy-agent": "^7.0.0",
+    "socks5-node-fetch": "^0.0.4"
+  }
+}
